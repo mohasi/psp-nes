@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "PSP",
+      "includePath": [
+        "${PSPDEV}/psp/include",
+        "${PSPDEV}/psp/sdk/include",
+        "${PSPDEV}/lib/gcc/psp/9.3.0/include"
+      ],
+      "compilerPath": "${PSPDEV}/bin/psp-gcc",
+      "defines": [],
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++17"
+    }
+  ],
+  "version": 4
+}
