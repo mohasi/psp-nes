@@ -1,2 +1,2 @@
-# psp-nes
-A NES emulator for the Sony PSP
+# pspNES
+A Nintendo Entertainment System (NES) emulator for the Sony PSP
