@@ -1,6 +1,6 @@
 PSP_EBOOT_TITLE = PSP NES
 PSP_EBOOT_DISC_ID = ULES00001
-OBJS = main.o ../common/callback.o
+OBJS = main.o nes.o callback.o
 LIBS =
 
 CFLAGS = -Wall -Wextra -Wno-unused-parameter -O3
